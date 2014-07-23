@@ -76,7 +76,7 @@ Latin Extended-A   | U+0100-U+017F
       * Single Substitution
       * Ligature Substitution
   - GPOS:
-    * cpsp Capital Spacing
+    * **cpsp** Capital Spacing
 
 ### Acknowledgements
 
