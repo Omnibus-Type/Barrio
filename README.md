@@ -5,7 +5,7 @@
 
 Designed to be used both on screen and on billboards, magazines and promotional material of small establishments. Particularly remarkable for its rhythmic contrast. Furthermore amateur appearance makes it ideal for warm communication, fun and live. Barrio offers 490 glyphs and diacritics with support for over 103 languages ​​Latin (including Guarani). 
 
-![Sample of Barrio.](Barrio.gif "Barrio")
+![Sample of Barrio.](SRC/Barrio.gif "Barrio")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2013-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Barrio'.
+Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -40,6 +40,13 @@ This information should be distributed along with the Barrio fonts and any deriv
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**03 Feb 2015 (Omnibus-Type) Barrio v.1.4) **  
+- Removed Reserve Font Name from the license
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- New Verical Metrics
 
 **26 Dec 2013 (Nicolas Silva) Barrio v.1.3**
 - Encoding support:

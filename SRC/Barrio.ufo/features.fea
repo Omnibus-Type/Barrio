@@ -1,0 +1,201 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+languagesystem latn TRK;
+languagesystem latn ESP;
+languagesystem latn CAT;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn PLK;
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D uni01F1 uni01C4 Eth Dcaron Dcroat uni1E0C E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent uni1EB8 Egrave Emacron Eogonek uni1EBC F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex uni1E24 I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent uni1ECA Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L uni01C7 Lacute Lcaron Lcommaaccent Ldot Lslash M N uni01CA Nacute Ncaron Ncommaaccent uni1E44 Eng Ntilde O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron uni01EA Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent uni1E5A S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni021A uni1E6C U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 Z Zacute Zcaron Zdotaccent uni1E92 Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA Ygrave.loclGUA uni1EF8.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega ];
+
+@Voc0 = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent uni1EB8 Egrave Emacron Eogonek uni1EBC I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent uni1ECA Igrave Imacron Iogonek Itilde O Oacute Obreve Ocircumflex Odieresis uni1ECC Ograve Ohungarumlaut Omacron uni01EA Oslash Oslashacute Otilde OE U Uacute Ubreve Ucircumflex Udieresis uni1EE4 Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde ];
+
+@Voc1 = [ a aacute abreve acircumflex adieresis agrave amacron aogonek aring aringacute atilde ae aeacute e eacute ebreve ecaron ecircumflex edieresis edotaccent uni1EB9 egrave emacron eogonek uni1EBD i ij iacute ibreve icircumflex idieresis i.loclTRK uni1ECB igrave imacron iogonek itilde o oacute obreve ocircumflex odieresis uni1ECD ograve ohungarumlaut omacron uni01EB oslash oslashacute otilde oe u uacute ubreve ucircumflex udieresis uni1EE5 ugrave uhungarumlaut umacron uogonek uring utilde ];
+
+@Con0 = [ B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D uni01F1 uni01C4 Eth Dcaron Dcroat uni1E0C F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex uni1E24 J Jcircumflex K Kcommaaccent L uni01C7 Lacute Lcaron Lcommaaccent Ldot Lslash M N uni01CA Nacute Ncaron Ncommaaccent uni1E44 Eng Ntilde P Thorn Q R Racute Rcaron Rcommaaccent uni1E5A S Sacute Scaron Scedilla Scircumflex Scommaaccent uni1E62 uni1E9E uni018F T Tbar Tcaron uni0162 uni021A uni1E6C V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8 Z Zacute Zcaron Zdotaccent uni1E92 Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA Ygrave.loclGUA uni1EF8.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK ];
+
+@Con1 = [ b c cacute ccaron ccedilla ccircumflex cdotaccent d uni01F3 uni01C6 eth dcaron dcroat uni1E0D f g gbreve gcircumflex gcommaaccent gdotaccent h hbar hcircumflex uni1E25 j jcircumflex k kcommaaccent l uni01C9 lacute lcaron lcommaaccent ldot lslash m n uni01CC nacute ncaron ncommaaccent uni1E45 eng ntilde p thorn q r racute rcaron rcommaaccent uni1E5B s sacute scaron scedilla scircumflex scommaaccent uni1E63 germandbls uni0259 t tbar tcaron uni0163 uni021B uni1E6D v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave uni1EF9 z zacute zcaron zdotaccent uni1E93 y.loclGUA yacute.loclGUA ycircumflex.loclGUA ydieresis.loclGUA ygrave.loclGUA uni1EF9.loclGUA cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK ];
+
+@Etc = [ uniFB01 uniFB02 f_f Iacute_J.loclNLD iacute_j.loclNLD Delta Omega mu pi fraction onehalf uni2153 uni2154 onequarter threequarters oneeighth ordfeminine ordmasculine uni00B9 uni00B2 uni00B3 asterisk backslash bullet colon comma ellipsis exclam exclamdown numbersign period periodcentered question questiondown quotedbl quotesingle semicolon slash underscore quotesingle.loclGUA braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen uni00AD guillemotleft guillemotright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase uni2003 uni2002 four-per-emspace space three-per-emspace .notdef florin cent currency dollar Euro uni20B2 sterling yen approxequal asciitilde divide uni2215 equal greater greaterequal uni2206 infinity integral less lessequal logicalnot minus multiply notequal partialdiff percent perthousand plus plusminus product radical summation ampersand at bar brokenbar copyright dagger daggerdbl degree paragraph registered section trademark asciicircum lozenge acutecomb uni0306 uni030C uni0327 uni0302 uni0326 uni0308 uni0307 dotbelowcomb gravecomb uni030B uni0304 uni030A tildecomb uni02BC acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ogonek ring tilde caron.alt acute.loclPLK baraccent baraccentlong baraccentmedium commaaccentinvert dotbelow ];
+
+feature aalt {
+# automatic
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature calt;
+feature salt;
+feature ss01;
+} aalt;
+
+feature locl {
+script latn;
+language TRK;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+language ESP;
+sub numbersign quotesingle by quotesingle.loclGUA;
+sub numbersign Y by Y.loclGUA;
+sub numbersign Yacute by Yacute.loclGUA;
+sub numbersign Ycircumflex by Ycircumflex.loclGUA;
+sub numbersign Ydieresis by Ydieresis.loclGUA;
+sub numbersign Ygrave by Ygrave.loclGUA;
+sub numbersign Y tilde by Ytilde.loclGUA;
+sub numbersign tilde Y by Ytilde.loclGUA;
+sub numbersign Y asciitilde by Ytilde.loclGUA;
+sub numbersign asciitilde Y by Ytilde.loclGUA;
+sub numbersign y by y.loclGUA;
+sub numbersign yacute by yacute.loclGUA;
+sub numbersign ycircumflex by ycircumflex.loclGUA;
+sub numbersign ydieresis by ydieresis.loclGUA;
+sub numbersign ygrave by ygrave.loclGUA;
+sub numbersign y tilde by ytilde.loclGUA;
+sub numbersign tilde y by ytilde.loclGUA;
+sub numbersign y asciitilde by ytilde.loclGUA;
+sub numbersign asciitilde y by ytilde.loclGUA;
+sub numbersign dollar [G g] by guarani;
+language CRT;
+sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language KAZ;
+sub i by idotaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language PLK;
+sub Cacute by Cacute.loclPLK;
+sub Nacute by Nacute.loclPLK;
+sub Oacute by Oacute.loclPLK;
+sub Sacute by Sacute.loclPLK;
+sub Zacute by Zacute.loclPLK;
+sub cacute by cacute.loclPLK;
+sub nacute by nacute.loclPLK;
+sub oacute by oacute.loclPLK;
+sub sacute by sacute.loclPLK;
+sub zacute by zacute.loclPLK;
+sub acute by acute.loclPLK;
+} locl;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+sub one slash three by onethird;
+sub two slash three by twothirds;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature calt {
+# consonant-consonant
+sub @Con0 @Con0' by @Con1;
+sub @Con1 @Con1' by @Con0;
+ 
+# consonant-other-consonant
+sub @Con0 [@Voc0 @Voc1 @Etc] @Con0' by @Con1;
+sub @Con1 [@Voc0 @Voc1 @Etc] @Con1' by @Con0;
+ 
+# consonant-other-other-consonant
+sub @Con0 [@Voc0 @Voc1 @Etc] [@Voc0 @Voc1 @Etc] @Con0' by @Con1;
+sub @Con1 [@Voc0 @Voc1 @Etc] [@Voc0 @Voc1 @Etc] @Con1' by @Con0;
+ 
+# vowel-vowel
+sub @Voc0 @Voc0' by @Voc1;
+sub @Voc1 @Voc1' by @Voc0;
+ 
+# vowel-other-vowel
+sub @Voc0 [@Con0 @Con1 @Etc] @Voc0' by @Voc1;
+sub @Voc1 [@Con0 @Con1 @Etc] @Voc1' by @Voc0;
+ 
+# vowel-other-other-vowel
+sub @Voc0 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc0' by @Voc1;
+sub @Voc1 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc1' by @Voc0;
+ 
+# vowel-other-other-other-vowel
+sub @Voc0 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc0' by @Voc1;
+sub @Voc1 [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] [@Con0 @Con1 @Etc] @Voc1' by @Voc0;
+
+# numbers
+sub zero zero' by zero.ss01;
+sub one one' by one.ss01;
+sub two two' by two.ss01;
+sub three three' by three.ss01;
+sub four four' by four.ss01;
+sub five five' by five.ss01;
+sub six six' by six.ss01;
+sub seven seven' by seven.ss01;
+sub eight eight' by eight.ss01;
+sub nine nine' by nine.ss01;
+} calt;
+
+feature liga {
+# automatic
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+} liga;
+
+feature salt {
+# automatic
+sub zero by zero.ss01;
+sub one by one.ss01;
+sub two by two.ss01;
+sub three by three.ss01;
+sub four by four.ss01;
+sub five by five.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+sub eight by eight.ss01;
+sub nine by nine.ss01;
+} salt;
+
+feature ss01 {
+# automatic
+sub zero by zero.ss01;
+sub one by one.ss01;
+sub two by two.ss01;
+sub three by three.ss01;
+sub four by four.ss01;
+sub five by five.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+sub eight by eight.ss01;
+sub nine by nine.ss01;
+} ss01;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
