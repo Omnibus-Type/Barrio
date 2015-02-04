@@ -41,7 +41,7 @@ This information should be distributed along with the Barrio fonts and any deriv
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**03 Feb 2015 (Omnibus-Type) Barrio v.1.4) **  
+**03 Feb 2015 (Omnibus-Type) Barrio v.1.4**  
 - Removed Reserve Font Name from the license
 - fsType Installable Mode
 - Set Panose values
