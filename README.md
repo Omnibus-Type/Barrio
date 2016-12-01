@@ -5,7 +5,7 @@
 
 Designed to be used both on screen and on billboards, magazines and promotional material of small establishments. Particularly remarkable for its rhythmic contrast. Furthermore amateur appearance makes it ideal for warm communication, fun and live. Barrio offers 490 glyphs and diacritics with support for over 103 languages ​​Latin (including Guarani). 
 
-![Sample of Barrio.](SRC/Barrio.gif "Barrio")
+![Sample of Barrio.](Barrio.gif "Barrio")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
