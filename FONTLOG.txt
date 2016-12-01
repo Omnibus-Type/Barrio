@@ -12,6 +12,9 @@ Designed for Omnibus-Type by Sergio Jiménez and Pablo Cosgaya.
 
 ChangeLog
 
+1 Dec 2016 Barrio v1.005
+- Prjects updated to Google Font’s spec
+
 03 Feb 2015 Barrio v.1.4  
 - Removed Reserve Font Name from the license
 - fsType Installable Mode
