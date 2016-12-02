@@ -60,7 +60,7 @@ value = 1;
 }
 );
 date = "2015-02-04 00:01:53 +0000";
-designer = "Pablo Cosgaya & Sergio Jiménez";
+designer = "Pablo Cosgaya & Sergio Jimenez";
 designerURL = "http://www.subcoolture.com";
 familyName = Barrio;
 featurePrefixes = (
@@ -57841,7 +57841,7 @@ UUID0 = 1;
 name = Regular;
 }
 );
-manufacturer = "Pablo Cosgaya & Sergio Jiménez";
+manufacturer = "Pablo Cosgaya & Sergio Jimenez";
 manufacturerURL = "http://www.omnibus-type.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
