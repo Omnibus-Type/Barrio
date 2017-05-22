@@ -41,6 +41,13 @@ This information should be distributed along with the Barrio fonts and any deriv
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**21 May 2017 Barrio v1.006**
+- Added lowercase and expanded repertoire
+
+
+**1 Dec 2016 Barrio v1.005**
+- Projects updated to Google Font’s spec
+
 **03 Feb 2015 (Omnibus-Type) Barrio v.1.4**  
 - Removed Reserve Font Name from the license
 - fsType Installable Mode

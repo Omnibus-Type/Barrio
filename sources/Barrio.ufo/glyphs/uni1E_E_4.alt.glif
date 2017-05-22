@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EE4.alt" format="1">
+  <advance width="624"/>
+  <outline>
+    <component base="U.alt"/>
+    <component base="dotbelow" xOffset="219"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-04 22:57:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

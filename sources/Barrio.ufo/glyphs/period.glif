@@ -4,6 +4,7 @@
   <unicode hex="002E"/>
   <outline>
     <contour>
+      <point x="118" y="136" type="curve" smooth="yes"/>
       <point x="85" y="136"/>
       <point x="46" y="127"/>
       <point x="46" y="68" type="curve" smooth="yes"/>
@@ -15,15 +16,12 @@
       <point x="194" y="47" type="curve" smooth="yes"/>
       <point x="194" y="79"/>
       <point x="188" y="136"/>
-      <point x="118" y="136" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 20:28:53 +0000</string>
     </dict>
   </lib>
 </glyph>

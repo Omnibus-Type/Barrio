@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.alt" format="1">
+  <advance width="262"/>
+  <outline>
+    <component base="ogonek" xOffset="8"/>
+    <component base="i.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-04 22:54:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ogonek</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

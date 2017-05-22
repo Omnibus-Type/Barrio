@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron.alt" format="1">
+  <advance width="597"/>
+  <outline>
+    <component base="N.alt"/>
+    <component base="caron" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-04 22:57:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

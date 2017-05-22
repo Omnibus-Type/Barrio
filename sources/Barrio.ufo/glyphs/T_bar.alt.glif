@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar.alt" format="1">
+  <advance width="578"/>
+  <outline>
+    <component base="T.alt"/>
+    <component base="baraccentmedium" xOffset="33" yOffset="161" xScale="0.915" yScale="0.915"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 02:25:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

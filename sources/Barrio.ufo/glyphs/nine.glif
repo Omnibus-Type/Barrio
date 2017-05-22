@@ -4,14 +4,15 @@
   <unicode hex="0039"/>
   <outline>
     <contour>
+      <point x="250" y="717" type="curve" smooth="yes"/>
       <point x="180" y="717"/>
       <point x="21" y="660"/>
       <point x="21" y="431" type="curve" smooth="yes"/>
-      <point x="21" y="218"/>
-      <point x="182" y="219"/>
-      <point x="233" y="219" type="curve" smooth="yes"/>
-      <point x="257" y="219"/>
-      <point x="287" y="239"/>
+      <point x="21" y="220"/>
+      <point x="179" y="219"/>
+      <point x="232" y="219" type="curve" smooth="yes"/>
+      <point x="256" y="219"/>
+      <point x="286" y="239"/>
       <point x="311" y="260" type="curve" smooth="yes"/>
       <point x="325" y="272"/>
       <point x="339" y="286"/>
@@ -28,8 +29,11 @@
       <point x="92" y="185"/>
       <point x="82" y="182"/>
       <point x="69" y="182" type="curve" smooth="yes"/>
-      <point x="57" y="182"/>
-      <point x="23" y="166"/>
+      <point x="61" y="182"/>
+      <point x="43" y="175"/>
+      <point x="43" y="152" type="curve" smooth="yes"/>
+      <point x="43" y="141"/>
+      <point x="47" y="126"/>
       <point x="58" y="107" type="curve" smooth="yes"/>
       <point x="93" y="49"/>
       <point x="144" y="-32"/>
@@ -42,9 +46,9 @@
       <point x="479" y="351" type="curve" smooth="yes"/>
       <point x="479" y="432"/>
       <point x="435" y="717"/>
-      <point x="250" y="717" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="334" y="430" type="curve"/>
       <point x="329" y="384"/>
       <point x="273" y="335"/>
       <point x="226" y="335" type="curve" smooth="yes"/>
@@ -56,15 +60,12 @@
       <point x="224" y="583" type="curve" smooth="yes"/>
       <point x="339" y="583"/>
       <point x="334" y="474"/>
-      <point x="334" y="430" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-01 20:47:46 +0000</string>
     </dict>
   </lib>
 </glyph>

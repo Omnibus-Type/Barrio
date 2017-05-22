@@ -4,20 +4,7 @@
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="198" y="227"/>
-      <point x="178" y="180"/>
-      <point x="178" y="141" type="curve" smooth="yes"/>
-      <point x="178" y="97"/>
-      <point x="214" y="65"/>
-      <point x="254" y="65" type="curve" smooth="yes"/>
-      <point x="302" y="65"/>
-      <point x="333" y="105"/>
-      <point x="333" y="141" type="curve" smooth="yes"/>
-      <point x="333" y="176"/>
-      <point x="303" y="227"/>
-      <point x="251" y="227" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
+      <point x="251" y="475" type="curve" smooth="yes"/>
       <point x="283" y="475"/>
       <point x="325" y="489"/>
       <point x="325" y="550" type="curve" smooth="yes"/>
@@ -29,11 +16,9 @@
       <point x="167" y="574" type="curve" smooth="yes"/>
       <point x="167" y="539"/>
       <point x="171" y="475"/>
-      <point x="251" y="475" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="302" y="392" type="line"/>
-      <point x="107" y="392" type="line"/>
+      <point x="441" y="392" type="curve"/>
       <point x="45" y="392" type="line" smooth="yes"/>
       <point x="26" y="392"/>
       <point x="23" y="384"/>
@@ -55,15 +40,26 @@
       <point x="477" y="372" type="line" smooth="yes"/>
       <point x="477" y="385"/>
       <point x="478" y="395"/>
-      <point x="441" y="392" type="curve"/>
+    </contour>
+    <contour>
+      <point x="251" y="227" type="curve" smooth="yes"/>
+      <point x="198" y="227"/>
+      <point x="178" y="180"/>
+      <point x="178" y="141" type="curve" smooth="yes"/>
+      <point x="178" y="97"/>
+      <point x="214" y="65"/>
+      <point x="254" y="65" type="curve" smooth="yes"/>
+      <point x="302" y="65"/>
+      <point x="333" y="105"/>
+      <point x="333" y="141" type="curve" smooth="yes"/>
+      <point x="333" y="176"/>
+      <point x="303" y="227"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-01 20:47:46 +0000</string>
     </dict>
   </lib>
 </glyph>

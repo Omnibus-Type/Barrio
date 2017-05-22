@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcaron" format="1">
+  <advance width="592"/>
+  <unicode hex="01E6"/>
+  <outline>
+    <component base="G"/>
+    <component base="uni030C" xOffset="140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 02:07:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

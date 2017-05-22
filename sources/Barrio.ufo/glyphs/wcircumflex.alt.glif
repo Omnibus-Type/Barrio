@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcircumflex.alt" format="1">
+  <advance width="604"/>
+  <outline>
+    <component base="w.alt"/>
+    <component base="uni0302" xOffset="130" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 02:29:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

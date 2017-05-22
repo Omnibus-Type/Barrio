@@ -3,26 +3,30 @@
   <advance width="187"/>
   <outline>
     <contour>
-      <point x="157" y="-41"/>
-      <point x="120" y="-22"/>
-      <point x="87" y="-22" type="curve" smooth="yes"/>
-      <point x="55" y="-22"/>
-      <point x="30" y="-52"/>
-      <point x="30" y="-81" type="curve" smooth="yes"/>
-      <point x="30" y="-118"/>
-      <point x="63" y="-142"/>
-      <point x="91" y="-142" type="curve" smooth="yes"/>
-      <point x="117" y="-142"/>
-      <point x="157" y="-120"/>
-      <point x="157" y="-76" type="curve" smooth="yes"/>
+      <point x="157" y="-96" type="curve" smooth="yes"/>
+      <point x="157" y="-61"/>
+      <point x="120" y="-42"/>
+      <point x="87" y="-42" type="curve" smooth="yes"/>
+      <point x="55" y="-42"/>
+      <point x="30" y="-72"/>
+      <point x="30" y="-101" type="curve" smooth="yes"/>
+      <point x="30" y="-138"/>
+      <point x="63" y="-162"/>
+      <point x="91" y="-162" type="curve" smooth="yes"/>
+      <point x="117" y="-162"/>
+      <point x="157" y="-140"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="88" y="-226" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-04 22:54:03 +0000</string>
     </dict>
   </lib>
 </glyph>

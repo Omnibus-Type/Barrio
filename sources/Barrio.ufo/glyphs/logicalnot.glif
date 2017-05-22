@@ -4,8 +4,7 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="298" y="394" type="line"/>
-      <point x="110" y="394" type="line"/>
+      <point x="433" y="394" type="curve"/>
       <point x="50" y="394" type="line" smooth="yes"/>
       <point x="33" y="394"/>
       <point x="29" y="386"/>
@@ -21,17 +20,26 @@
       <point x="287" y="307"/>
       <point x="313" y="307"/>
       <point x="336" y="306" type="curve"/>
-      <point x="340" y="235"/>
-      <point x="340" y="169"/>
-      <point x="337" y="109" type="curve"/>
-      <point x="337" y="96"/>
-      <point x="360" y="92"/>
+      <point x="338" y="268"/>
+      <point x="339" y="231"/>
+      <point x="339" y="196" type="curve" smooth="yes"/>
+      <point x="339" y="166"/>
+      <point x="338" y="137"/>
+      <point x="337" y="109" type="curve" smooth="yes"/>
+      <point x="337" y="100"/>
+      <point x="347" y="96"/>
+      <point x="368" y="96" type="curve" smooth="yes"/>
+      <point x="378" y="96"/>
+      <point x="391" y="97"/>
       <point x="406" y="99" type="curve"/>
       <point x="449" y="100"/>
       <point x="469" y="106"/>
       <point x="468" y="117" type="curve"/>
-      <point x="468" y="173"/>
-      <point x="463" y="244"/>
+      <point x="468" y="160"/>
+      <point x="465" y="212"/>
+      <point x="465" y="251" type="curve" smooth="yes"/>
+      <point x="465" y="262"/>
+      <point x="465" y="272"/>
       <point x="466" y="281" type="curve" smooth="yes"/>
       <point x="467" y="300"/>
       <point x="468" y="313"/>
@@ -39,15 +47,12 @@
       <point x="468" y="374" type="line" smooth="yes"/>
       <point x="468" y="387"/>
       <point x="468" y="397"/>
-      <point x="433" y="394" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-01 20:47:46 +0000</string>
     </dict>
   </lib>
 </glyph>

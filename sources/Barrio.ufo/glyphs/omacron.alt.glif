@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron.alt" format="1">
+  <advance width="547"/>
+  <outline>
+    <component base="o.alt"/>
+    <component base="uni0304" xOffset="102" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 02:28:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

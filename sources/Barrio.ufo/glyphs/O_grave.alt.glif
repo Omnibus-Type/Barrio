@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve.alt" format="1">
+  <advance width="639"/>
+  <outline>
+    <component base="O.alt"/>
+    <component base="grave" xOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-09 02:24:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>
