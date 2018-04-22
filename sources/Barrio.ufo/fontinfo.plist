@@ -7,27 +7,19 @@
 	<key>capHeight</key>
 	<integer>710</integer>
 	<key>copyright</key>
-	<string>Copyright © 2016-2017, by Pablo Cosgaya &amp; Sergio Jiménez. All rights reserved.</string>
+	<string>Copyright 2016 The Barrio Project Authors (https://github.com/Omnibus-Type/Barrio)</string>
 	<key>descender</key>
 	<integer>-238</integer>
 	<key>familyName</key>
 	<string>Barrio</string>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
-	<key>macintoshFONDName</key>
-	<string>Barrio Regular</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/05/21 21:23:22</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
+	<string>2017/05/22 01:23:22</string>
 	<key>openTypeHheaAscender</key>
 	<integer>962</integer>
 	<key>openTypeHheaDescender</key>
 	<integer>-238</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Barrio Regular</string>
 	<key>openTypeNameDesigner</key>
 	<string>Pablo Cosgaya &amp; Sergio Jiménez</string>
 	<key>openTypeNameDesignerURL</key>
@@ -40,23 +32,6 @@
 	<string>Barrio</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeNameUniqueID</key>
-	<string>1.002;UKWN;Barrio-Regular</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.002;PS 001.002;hotconv 1.0.70;makeotf.lib2.5.58329</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>4</integer>
-		<integer>7</integer>
-		<integer>29</integer>
-	</array>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>0</integer>
@@ -116,12 +91,6 @@
 	<integer>962</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>238</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>0</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.036999999999999998</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-40</integer>
@@ -129,21 +98,11 @@
 		<integer>689</integer>
 		<integer>725</integer>
 	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
 	<key>postscriptFontName</key>
-	<string>Barrio</string>
-	<key>postscriptForceBold</key>
-	<false/>
-	<key>postscriptFullName</key>
-	<string>Barrio</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
+	<string>Barrio-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>280</integer>
@@ -157,15 +116,9 @@
 		<integer>186</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
-	<integer>-100</integer>
+	<integer>-150</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Barrio</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -175,10 +128,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>6</integer>
+	<integer>7</integer>
 	<key>xHeight</key>
 	<integer>582</integer>
-	<key>year</key>
-	<integer>2013</integer>
 </dict>
 </plist>

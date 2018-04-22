@@ -3,12 +3,31 @@
   <advance width="578"/>
   <outline>
     <component base="T.alt"/>
-    <component base="baraccentmedium" xOffset="33" yOffset="161" xScale="0.915" yScale="0.915"/>
+    <component base="baraccentmedium" xScale="0.915" yScale="0.915" xOffset="33" yOffset="161"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T.alt</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>baraccentmedium</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-09 02:25:43 +0000</string>
+      <string>2018-04-22 22:32:32 +0000</string>
     </dict>
   </lib>
 </glyph>

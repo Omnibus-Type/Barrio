@@ -200,10 +200,6 @@
 	<string>G_circumflex.glif</string>
 	<key>Gcircumflex.alt</key>
 	<string>G_circumflex.alt.glif</string>
-	<key>Gcommaaccent</key>
-	<string>G_commaaccent.glif</string>
-	<key>Gcommaaccent.alt</key>
-	<string>G_commaaccent.alt.glif</string>
 	<key>Gdotaccent</key>
 	<string>G_dotaccent.glif</string>
 	<key>Gdotaccent.alt</key>
@@ -280,10 +276,6 @@
 	<string>K_.glif</string>
 	<key>K.alt</key>
 	<string>K_.alt.glif</string>
-	<key>Kcommaaccent</key>
-	<string>K_commaaccent.glif</string>
-	<key>Kcommaaccent.alt</key>
-	<string>K_commaaccent.alt.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>L.alt</key>
@@ -304,10 +296,6 @@
 	<string>L_caron.glif</string>
 	<key>Lcaron.alt</key>
 	<string>L_caron.alt.glif</string>
-	<key>Lcommaaccent</key>
-	<string>L_commaaccent.glif</string>
-	<key>Lcommaaccent.alt</key>
-	<string>L_commaaccent.alt.glif</string>
 	<key>Ldot</key>
 	<string>L_dot.glif</string>
 	<key>Ldot.alt</key>
@@ -338,10 +326,6 @@
 	<string>N_caron.glif</string>
 	<key>Ncaron.alt</key>
 	<string>N_caron.alt.glif</string>
-	<key>Ncommaaccent</key>
-	<string>N_commaaccent.glif</string>
-	<key>Ncommaaccent.alt</key>
-	<string>N_commaaccent.alt.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>Ntilde.alt</key>
@@ -418,10 +402,6 @@
 	<string>R_caron.glif</string>
 	<key>Rcaron.alt</key>
 	<string>R_caron.alt.glif</string>
-	<key>Rcommaaccent</key>
-	<string>R_commaaccent.glif</string>
-	<key>Rcommaaccent.alt</key>
-	<string>R_commaaccent.alt.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.alt</key>
@@ -446,10 +426,6 @@
 	<string>S_circumflex.glif</string>
 	<key>Scircumflex.alt</key>
 	<string>S_circumflex.alt.glif</string>
-	<key>Scommaaccent</key>
-	<string>S_commaaccent.glif</string>
-	<key>Scommaaccent.alt</key>
-	<string>S_commaaccent.alt.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T.alt</key>
@@ -918,10 +894,6 @@
 	<string>gcircumflex.glif</string>
 	<key>gcircumflex.alt</key>
 	<string>gcircumflex.alt.glif</string>
-	<key>gcommaaccent</key>
-	<string>gcommaaccent.glif</string>
-	<key>gcommaaccent.alt</key>
-	<string>gcommaaccent.alt.glif</string>
 	<key>gdotaccent</key>
 	<string>gdotaccent.glif</string>
 	<key>gdotaccent.alt</key>
@@ -1026,10 +998,6 @@
 	<string>k.glif</string>
 	<key>k.alt</key>
 	<string>k.alt.glif</string>
-	<key>kcommaaccent</key>
-	<string>kcommaaccent.glif</string>
-	<key>kcommaaccent.alt</key>
-	<string>kcommaaccent.alt.glif</string>
 	<key>kgreenlandic</key>
 	<string>kgreenlandic.glif</string>
 	<key>kgreenlandic.alt</key>
@@ -1046,10 +1014,6 @@
 	<string>lcaron.glif</string>
 	<key>lcaron.alt</key>
 	<string>lcaron.alt.glif</string>
-	<key>lcommaaccent</key>
-	<string>lcommaaccent.glif</string>
-	<key>lcommaaccent.alt</key>
-	<string>lcommaaccent.alt.glif</string>
 	<key>ldot</key>
 	<string>ldot.glif</string>
 	<key>ldot.alt</key>
@@ -1100,10 +1064,6 @@
 	<string>ncaron.glif</string>
 	<key>ncaron.alt</key>
 	<string>ncaron.alt.glif</string>
-	<key>ncommaaccent</key>
-	<string>ncommaaccent.glif</string>
-	<key>ncommaaccent.alt</key>
-	<string>ncommaaccent.alt.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nine.ss01</key>
@@ -1252,10 +1212,6 @@
 	<string>rcaron.glif</string>
 	<key>rcaron.alt</key>
 	<string>rcaron.alt.glif</string>
-	<key>rcommaaccent</key>
-	<string>rcommaaccent.glif</string>
-	<key>rcommaaccent.alt</key>
-	<string>rcommaaccent.alt.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
 	<key>ring</key>
@@ -1284,10 +1240,6 @@
 	<string>scircumflex.glif</string>
 	<key>scircumflex.alt</key>
 	<string>scircumflex.alt.glif</string>
-	<key>scommaaccent</key>
-	<string>scommaaccent.glif</string>
-	<key>scommaaccent.alt</key>
-	<string>scommaaccent.alt.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>semicolon</key>
@@ -1386,6 +1338,46 @@
 	<string>uni00B_3.glif</string>
 	<key>uni00B9</key>
 	<string>uni00B_9.glif</string>
+	<key>uni0122</key>
+	<string>uni0122.glif</string>
+	<key>uni0122.alt</key>
+	<string>uni0122.alt.glif</string>
+	<key>uni0123</key>
+	<string>uni0123.glif</string>
+	<key>uni0123.alt</key>
+	<string>uni0123.alt.glif</string>
+	<key>uni0136</key>
+	<string>uni0136.glif</string>
+	<key>uni0136.alt</key>
+	<string>uni0136.alt.glif</string>
+	<key>uni0137</key>
+	<string>uni0137.glif</string>
+	<key>uni0137.alt</key>
+	<string>uni0137.alt.glif</string>
+	<key>uni013B</key>
+	<string>uni013B_.glif</string>
+	<key>uni013B.alt</key>
+	<string>uni013B_.alt.glif</string>
+	<key>uni013C</key>
+	<string>uni013C_.glif</string>
+	<key>uni013C.alt</key>
+	<string>uni013C_.alt.glif</string>
+	<key>uni0145</key>
+	<string>uni0145.glif</string>
+	<key>uni0145.alt</key>
+	<string>uni0145.alt.glif</string>
+	<key>uni0146</key>
+	<string>uni0146.glif</string>
+	<key>uni0146.alt</key>
+	<string>uni0146.alt.glif</string>
+	<key>uni0156</key>
+	<string>uni0156.glif</string>
+	<key>uni0156.alt</key>
+	<string>uni0156.alt.glif</string>
+	<key>uni0157</key>
+	<string>uni0157.glif</string>
+	<key>uni0157.alt</key>
+	<string>uni0157.alt.glif</string>
 	<key>uni0162</key>
 	<string>uni0162.glif</string>
 	<key>uni0162.alt</key>
@@ -1442,6 +1434,14 @@
 	<string>uni01F_3.glif</string>
 	<key>uni01F3.alt</key>
 	<string>uni01F_3.alt.glif</string>
+	<key>uni0218</key>
+	<string>uni0218.glif</string>
+	<key>uni0218.alt</key>
+	<string>uni0218.alt.glif</string>
+	<key>uni0219</key>
+	<string>uni0219.glif</string>
+	<key>uni0219.alt</key>
+	<string>uni0219.alt.glif</string>
 	<key>uni021A</key>
 	<string>uni021A_.glif</string>
 	<key>uni021A.alt</key>
