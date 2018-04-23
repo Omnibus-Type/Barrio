@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25CF" format="1">
+  <advance width="700"/>
+  <unicode hex="25CF"/>
+  <outline>
+    <contour>
+      <point x="619" y="328" type="curve"/>
+      <point x="612" y="271"/>
+      <point x="601" y="236"/>
+      <point x="568" y="188" type="curve"/>
+      <point x="549" y="160"/>
+      <point x="497" y="101"/>
+      <point x="456" y="97" type="curve"/>
+      <point x="428" y="94"/>
+      <point x="395" y="84"/>
+      <point x="366" y="85" type="curve"/>
+      <point x="331" y="87"/>
+      <point x="294" y="93"/>
+      <point x="260" y="101" type="curve"/>
+      <point x="198" y="116"/>
+      <point x="131" y="157"/>
+      <point x="106" y="219" type="curve"/>
+      <point x="55" y="348"/>
+      <point x="96" y="518"/>
+      <point x="223" y="587" type="curve"/>
+      <point x="251" y="602"/>
+      <point x="296" y="618"/>
+      <point x="328" y="616" type="curve"/>
+      <point x="401" y="612"/>
+      <point x="486" y="596"/>
+      <point x="542" y="547" type="curve"/>
+      <point x="589" y="507"/>
+      <point x="612" y="432"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

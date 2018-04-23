@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="690"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="624" y="354" type="line" smooth="yes"/>
+      <point x="624" y="367"/>
+      <point x="625" y="377"/>
+      <point x="582" y="374" type="curve"/>
+      <point x="93" y="374" type="line" smooth="yes"/>
+      <point x="72" y="374"/>
+      <point x="67" y="366"/>
+      <point x="67" y="350" type="curve"/>
+      <point x="67" y="333" type="line" smooth="yes"/>
+      <point x="67" y="324"/>
+      <point x="66" y="316"/>
+      <point x="85" y="316" type="curve"/>
+      <point x="101" y="319"/>
+      <point x="183" y="320"/>
+      <point x="205" y="320" type="curve"/>
+      <point x="357" y="320" type="line" smooth="yes"/>
+      <point x="423" y="320"/>
+      <point x="464" y="319"/>
+      <point x="481" y="318" type="curve"/>
+      <point x="532" y="316" type="line"/>
+      <point x="573" y="316" type="line" smooth="yes"/>
+      <point x="616" y="316"/>
+      <point x="624" y="320"/>
+      <point x="624" y="333" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

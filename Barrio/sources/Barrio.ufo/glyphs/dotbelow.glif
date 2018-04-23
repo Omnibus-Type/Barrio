@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow" format="1">
+  <advance width="187"/>
+  <outline>
+    <contour>
+      <point x="91" y="-162" type="curve"/>
+      <point x="117" y="-162"/>
+      <point x="157" y="-140"/>
+      <point x="157" y="-96" type="curve"/>
+      <point x="157" y="-61"/>
+      <point x="120" y="-42"/>
+      <point x="87" y="-42" type="curve"/>
+      <point x="55" y="-42"/>
+      <point x="30" y="-72"/>
+      <point x="30" y="-101" type="curve"/>
+      <point x="30" y="-138"/>
+      <point x="63" y="-162"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="88" y="-226" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

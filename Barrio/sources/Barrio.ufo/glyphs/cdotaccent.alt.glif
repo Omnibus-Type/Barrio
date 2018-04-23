@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent.alt" format="1">
+  <advance width="489"/>
+  <outline>
+    <component base="c.alt"/>
+    <component base="uni0307" xOffset="177" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

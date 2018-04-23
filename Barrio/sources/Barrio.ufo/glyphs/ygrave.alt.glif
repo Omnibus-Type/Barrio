@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave.alt" format="1">
+  <advance width="462"/>
+  <outline>
+    <component base="y.alt"/>
+    <component base="gravecomb" xOffset="114" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

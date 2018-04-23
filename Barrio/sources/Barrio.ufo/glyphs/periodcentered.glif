@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="235"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="193" y="337" type="curve"/>
+      <point x="193" y="369"/>
+      <point x="187" y="426"/>
+      <point x="117" y="426" type="curve"/>
+      <point x="84" y="426"/>
+      <point x="45" y="417"/>
+      <point x="45" y="358" type="curve"/>
+      <point x="45" y="303"/>
+      <point x="81" y="278"/>
+      <point x="117" y="278" type="curve"/>
+      <point x="154" y="278"/>
+      <point x="193" y="304"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

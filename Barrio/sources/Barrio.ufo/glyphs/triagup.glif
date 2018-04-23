@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triagup" format="1">
+  <advance width="683"/>
+  <unicode hex="25B2"/>
+  <outline>
+    <contour>
+      <point x="174" y="358" type="curve"/>
+      <point x="216" y="438"/>
+      <point x="305" y="582"/>
+      <point x="339" y="615" type="curve"/>
+      <point x="349" y="614"/>
+      <point x="359" y="606"/>
+      <point x="367" y="603" type="curve"/>
+      <point x="400" y="574"/>
+      <point x="434" y="518"/>
+      <point x="474" y="435" type="curve"/>
+      <point x="516" y="347"/>
+      <point x="609" y="222"/>
+      <point x="649" y="134" type="curve"/>
+      <point x="649" y="119"/>
+      <point x="647" y="118"/>
+      <point x="642" y="108" type="curve"/>
+      <point x="565" y="79"/>
+      <point x="417" y="111"/>
+      <point x="337" y="110" type="curve"/>
+      <point x="280" y="110"/>
+      <point x="72" y="96"/>
+      <point x="36" y="126" type="curve"/>
+      <point x="8" y="158"/>
+      <point x="156" y="324"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

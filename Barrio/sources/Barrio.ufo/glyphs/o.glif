@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="506"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="466" y="285" type="curve"/>
+      <point x="466" y="408"/>
+      <point x="454" y="598"/>
+      <point x="254" y="598" type="curve"/>
+      <point x="172" y="598"/>
+      <point x="40" y="540"/>
+      <point x="40" y="297" type="curve"/>
+      <point x="40" y="206"/>
+      <point x="56" y="-22"/>
+      <point x="260" y="-22" type="curve"/>
+      <point x="406" y="-22"/>
+      <point x="466" y="163"/>
+    </contour>
+    <contour>
+      <point x="317" y="278" type="curve"/>
+      <point x="317" y="226"/>
+      <point x="300" y="172"/>
+      <point x="253" y="172" type="curve"/>
+      <point x="201" y="172"/>
+      <point x="197" y="229"/>
+      <point x="197" y="270" type="curve"/>
+      <point x="197" y="339"/>
+      <point x="214" y="382"/>
+      <point x="259" y="382" type="curve"/>
+      <point x="295" y="382"/>
+      <point x="317" y="357"/>
+    </contour>
+    <contour>
+      <point x="322" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="261" y="602" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

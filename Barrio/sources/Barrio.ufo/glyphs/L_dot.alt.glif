@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot.alt" format="1">
+  <advance width="579"/>
+  <outline>
+    <contour>
+      <point x="448" y="425" type="curve"/>
+      <point x="448" y="457"/>
+      <point x="442" y="514"/>
+      <point x="372" y="514" type="curve"/>
+      <point x="339" y="514"/>
+      <point x="300" y="505"/>
+      <point x="300" y="446" type="curve"/>
+      <point x="300" y="391"/>
+      <point x="336" y="366"/>
+      <point x="372" y="366" type="curve"/>
+      <point x="409" y="366"/>
+      <point x="448" y="392"/>
+    </contour>
+    <component base="L.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

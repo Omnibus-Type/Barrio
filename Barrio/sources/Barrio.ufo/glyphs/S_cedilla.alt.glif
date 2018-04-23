@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scedilla.alt" format="1">
+  <advance width="503"/>
+  <outline>
+    <contour>
+      <point x="278" y="649" type="curve"/>
+      <point x="334" y="649"/>
+      <point x="397" y="602"/>
+      <point x="408" y="594" type="curve"/>
+      <point x="415" y="588" type="line" smooth="yes"/>
+      <point x="420" y="585"/>
+      <point x="424" y="583"/>
+      <point x="428" y="583" type="curve"/>
+      <point x="436" y="583"/>
+      <point x="449" y="608"/>
+      <point x="454" y="613" type="curve"/>
+      <point x="457" y="616"/>
+      <point x="458" y="618"/>
+      <point x="458" y="621" type="curve"/>
+      <point x="458" y="626"/>
+      <point x="455" y="630"/>
+      <point x="448" y="635" type="curve"/>
+      <point x="438" y="642"/>
+      <point x="373" y="705"/>
+      <point x="275" y="705" type="curve"/>
+      <point x="175" y="705"/>
+      <point x="44" y="635"/>
+      <point x="44" y="503" type="curve"/>
+      <point x="44" y="278"/>
+      <point x="349" y="303"/>
+      <point x="349" y="184" type="curve"/>
+      <point x="349" y="70"/>
+      <point x="236" y="66"/>
+      <point x="200" y="66" type="curve"/>
+      <point x="164" y="66"/>
+      <point x="102" y="96"/>
+      <point x="86" y="112" type="curve"/>
+      <point x="71" y="127"/>
+      <point x="72" y="128"/>
+      <point x="66" y="128" type="curve"/>
+      <point x="66" y="128"/>
+      <point x="65" y="128"/>
+      <point x="64" y="128" type="curve"/>
+      <point x="56" y="128"/>
+      <point x="45" y="103"/>
+      <point x="42" y="98" type="curve"/>
+      <point x="39" y="93"/>
+      <point x="39" y="87"/>
+      <point x="47" y="80" type="curve"/>
+      <point x="56" y="72"/>
+      <point x="124" y="11"/>
+      <point x="210" y="11" type="curve"/>
+      <point x="297" y="11"/>
+      <point x="459" y="35"/>
+      <point x="459" y="207" type="curve"/>
+      <point x="459" y="448"/>
+      <point x="138" y="373"/>
+      <point x="138" y="538" type="curve"/>
+      <point x="138" y="598"/>
+      <point x="181" y="649"/>
+    </contour>
+    <component base="cedilla" xOffset="86" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

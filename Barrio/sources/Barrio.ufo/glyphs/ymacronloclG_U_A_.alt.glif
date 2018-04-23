@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ymacronloclGUA.alt" format="1">
+  <advance width="512"/>
+  <outline>
+    <component base="yloclGUA.alt"/>
+    <component base="macron" xOffset="77" yOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-22 22:32:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>
