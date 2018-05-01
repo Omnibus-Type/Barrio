@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="1">
-  <advance width="507"/>
+  <advance width="475"/>
   <unicode hex="0104"/>
   <outline>
     <component base="A"/>
-    <component base="ogonek" xOffset="361"/>
+    <component base="ogonekcomb.case" xOffset="331" yOffset="1"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ogonek</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

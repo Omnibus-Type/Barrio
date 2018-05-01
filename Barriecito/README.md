@@ -41,8 +41,9 @@ This information should be distributed along with the Barrio fonts and any deriv
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**22 Apr 2018 Barrio v1.007**
+**1 May 2018 Barrio v1.007**
 - Updated underline
+– Expanded set to GF_Latin plus
 
 **21 May 2017 Barrio v1.006**
 - Added lowercase and expanded repertoire

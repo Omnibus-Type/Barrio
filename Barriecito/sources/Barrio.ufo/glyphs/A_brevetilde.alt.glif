@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevetilde.alt" format="1">
+  <advance width="566"/>
+  <outline>
+    <component base="A.alt"/>
+    <component base="brevecomb.case" xOffset="98" yOffset="128"/>
+    <component base="tildecomb.case" xOffset="72" yOffset="256"/>
+  </outline>
+</glyph>

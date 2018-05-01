@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreveacute.alt" format="1">
+  <advance width="556"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="brevecomb" xOffset="140" yOffset="20"/>
+    <component base="acutecomb" xOffset="185" yOffset="148"/>
+  </outline>
+</glyph>

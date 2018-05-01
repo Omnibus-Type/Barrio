@@ -1,55 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="1">
-  <advance width="0"/>
+  <advance width="208"/>
   <unicode hex="0301"/>
   <outline>
+    <component base="acute" xOffset="-17"/>
     <contour>
-      <point x="187" y="837" type="curve"/>
-      <point x="179" y="836"/>
-      <point x="164" y="834"/>
-      <point x="152" y="830" type="curve"/>
-      <point x="130" y="822" type="line"/>
-      <point x="89" y="804"/>
-      <point x="83" y="807"/>
-      <point x="69" y="799" type="curve"/>
-      <point x="59" y="796"/>
-      <point x="21" y="781"/>
-      <point x="19" y="774" type="curve"/>
-      <point x="18" y="770"/>
-      <point x="17" y="767"/>
-      <point x="17" y="764" type="curve"/>
-      <point x="17" y="752"/>
-      <point x="28" y="745"/>
-      <point x="37" y="742" type="curve"/>
-      <point x="45" y="737"/>
-      <point x="51" y="735"/>
-      <point x="58" y="735" type="curve"/>
-      <point x="67" y="735"/>
-      <point x="76" y="739"/>
-      <point x="90" y="744" type="curve"/>
-      <point x="124" y="760"/>
-      <point x="141" y="765"/>
-      <point x="175" y="777" type="curve"/>
-      <point x="186" y="781"/>
-      <point x="219" y="794"/>
-      <point x="224" y="811" type="curve"/>
-      <point x="228" y="833"/>
-      <point x="221" y="839"/>
-      <point x="207" y="839" type="curve"/>
-      <point x="202" y="839"/>
-      <point x="195" y="838"/>
+      <point x="104" y="582" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="113" y="692" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="123" y="882" type="move" name="top"/>
+      <point x="104" y="711" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

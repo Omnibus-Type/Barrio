@@ -3,12 +3,6 @@
   <advance width="246"/>
   <outline>
     <component base="dotlessI"/>
-    <component base="grave" xOffset="-11"/>
+    <component base="gravecomb.case" xOffset="18" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

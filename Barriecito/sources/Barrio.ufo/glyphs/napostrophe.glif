@@ -4,7 +4,7 @@
   <unicode hex="0149"/>
   <outline>
     <component base="n" xOffset="22"/>
-    <component base="uni02BC" xOffset="-23" yOffset="-172"/>
+    <component base="apostrophemod" xOffset="-23" yOffset="-172"/>
   </outline>
   <lib>
     <dict>
@@ -24,11 +24,9 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni02BC</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
     </dict>
   </lib>
 </glyph>

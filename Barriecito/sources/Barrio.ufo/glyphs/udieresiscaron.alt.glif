@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresiscaron.alt" format="1">
+  <advance width="548"/>
+  <outline>
+    <component base="u.alt"/>
+    <component base="dieresiscomb" xOffset="102" yOffset="20"/>
+    <component base="caroncomb" xOffset="124" yOffset="150"/>
+  </outline>
+</glyph>

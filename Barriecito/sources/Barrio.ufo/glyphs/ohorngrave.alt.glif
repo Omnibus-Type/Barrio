@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorngrave.alt" format="1">
+  <advance width="547"/>
+  <outline>
+    <component base="ohorn.alt"/>
+    <component base="gravecomb" xOffset="155" yOffset="20"/>
+  </outline>
+</glyph>

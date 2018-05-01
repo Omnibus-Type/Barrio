@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="1">
+  <advance width="297"/>
+  <unicode hex="0304"/>
+  <outline>
+    <component base="macron" xOffset="-30"/>
+    <contour>
+      <point x="149" y="582" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="149" y="689" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

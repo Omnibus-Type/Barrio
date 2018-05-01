@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave.alt" format="1">
+  <advance width="538"/>
+  <outline>
+    <component base="e.alt"/>
+    <component base="circumflexcomb" xOffset="133" yOffset="20"/>
+    <component base="gravecomb" xOffset="159" yOffset="151"/>
+  </outline>
+</glyph>

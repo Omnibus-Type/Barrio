@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Barrio</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/05/22 01:23:22</string>
+	<string>2018/04/30 10:23:30</string>
 	<key>openTypeHheaAscender</key>
 	<integer>962</integer>
 	<key>openTypeHheaDescender</key>
@@ -32,19 +32,6 @@
 	<string>Barrio</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeOS2Panose</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>5</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
 	<key>openTypeOS2StrikeoutPosition</key>
 	<integer>295</integer>
 	<key>openTypeOS2StrikeoutSize</key>
@@ -67,7 +54,6 @@
 	<integer>600</integer>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>3</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>762</integer>
@@ -82,7 +68,7 @@
 		<integer>2</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
-	<string>UKWN</string>
+	<string>OMNI</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -116,13 +102,15 @@
 		<integer>186</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
-	<integer>-150</integer>
+	<integer>-145</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
+	<key>trademark</key>
+	<string>Barrio is a trademark of Omnibus-Type.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

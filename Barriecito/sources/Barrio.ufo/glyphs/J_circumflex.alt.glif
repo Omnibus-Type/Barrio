@@ -2,13 +2,7 @@
 <glyph name="Jcircumflex.alt" format="1">
   <advance width="393"/>
   <outline>
-    <component base="dotlessJ"/>
-    <component base="circumflex" xOffset="86"/>
+    <component base="J.alt"/>
+    <component base="circumflexcomb.case" xOffset="118" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

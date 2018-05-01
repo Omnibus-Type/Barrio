@@ -3,7 +3,7 @@
   <advance width="499"/>
   <outline>
     <component base="c.alt"/>
-    <component base="uni0327" xOffset="113" yOffset="-21"/>
+    <component base="cedillacomb" xOffset="172"/>
   </outline>
   <lib>
     <dict>
@@ -17,17 +17,7 @@
           <key>name</key>
           <string>c.alt</string>
         </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni0327</string>
-        </dict>
       </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -9,7 +9,7 @@
 		<string>Abreve</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
-		<string>uni1EA0</string>
+		<string>Adotbelow</string>
 		<string>Agrave</string>
 		<string>Amacron</string>
 		<string>Aogonek</string>
@@ -24,7 +24,7 @@
 		<string>Abreve.alt</string>
 		<string>Acircumflex.alt</string>
 		<string>Adieresis.alt</string>
-		<string>uni1EA0.alt</string>
+		<string>Adotbelow.alt</string>
 		<string>Agrave.alt</string>
 		<string>Amacron.alt</string>
 		<string>Aogonek.alt</string>
@@ -60,7 +60,7 @@
 		<string>Gbreve</string>
 		<string>Gcaron</string>
 		<string>Gcircumflex</string>
-		<string>uni0122</string>
+		<string>Gcommaaccent</string>
 		<string>Gdotaccent</string>
 	</array>
 	<key>@MMK_L_G.alt</key>
@@ -68,43 +68,43 @@
 		<string>Gbreve.alt</string>
 		<string>Gcaron.alt</string>
 		<string>Gcircumflex.alt</string>
-		<string>uni0122.alt</string>
+		<string>Gcommaaccent.alt</string>
 		<string>Gdotaccent.alt</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
 		<string>L</string>
 		<string>Lacute</string>
-		<string>uni013B</string>
+		<string>Lcommaaccent</string>
 		<string>Lslash</string>
 	</array>
 	<key>@MMK_L_L.alt</key>
 	<array>
 		<string>L.alt</string>
 		<string>Lacute.alt</string>
-		<string>uni013B.alt</string>
+		<string>Lcommaaccent.alt</string>
 		<string>Lslash.alt</string>
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
 		<string>D</string>
-		<string>uni01F1</string>
-		<string>uni01C4</string>
+		<string>DZ</string>
+		<string>DZcaron</string>
 		<string>Eth</string>
 		<string>Dcaron</string>
 		<string>Dcroat</string>
-		<string>uni1E0C</string>
+		<string>Ddotbelow</string>
 		<string>Eacute</string>
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
-		<string>uni1ECC</string>
+		<string>Odotbelow</string>
 		<string>Ograve</string>
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
-		<string>uni01EA</string>
+		<string>Oogonek</string>
 		<string>Oslash</string>
 		<string>Oslashacute</string>
 		<string>Otilde</string>
@@ -115,21 +115,21 @@
 	<key>@MMK_L_O.alt</key>
 	<array>
 		<string>D.alt</string>
-		<string>uni01F1.alt</string>
-		<string>uni01C4.alt</string>
+		<string>DZ.alt</string>
+		<string>DZcaron.alt</string>
 		<string>Eth.alt</string>
 		<string>Dcaron.alt</string>
 		<string>Dcroat.alt</string>
-		<string>uni1E0C.alt</string>
+		<string>Ddotbelow.alt</string>
 		<string>Oacute.alt</string>
 		<string>Obreve.alt</string>
 		<string>Ocircumflex.alt</string>
 		<string>Odieresis.alt</string>
-		<string>uni1ECC.alt</string>
+		<string>Odotbelow.alt</string>
 		<string>Ograve.alt</string>
 		<string>Ohungarumlaut.alt</string>
 		<string>Omacron.alt</string>
-		<string>uni01EA.alt</string>
+		<string>Oogonek.alt</string>
 		<string>Oslash.alt</string>
 		<string>Oslashacute.alt</string>
 		<string>Otilde.alt</string>
@@ -143,8 +143,8 @@
 	<array>
 		<string>Racute.alt</string>
 		<string>Rcaron.alt</string>
-		<string>uni0156.alt</string>
-		<string>uni1E5A.alt</string>
+		<string>Rcommaaccent.alt</string>
+		<string>Rdotbelow.alt</string>
 	</array>
 	<key>@MMK_L_S</key>
 	<array>
@@ -152,8 +152,8 @@
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
-		<string>uni0218</string>
-		<string>uni1E62</string>
+		<string>Scommaaccent</string>
+		<string>Sdotbelow</string>
 		<string>Sacute.loclPLK</string>
 	</array>
 	<key>@MMK_L_S.alt</key>
@@ -163,8 +163,8 @@
 		<string>Scaron.alt</string>
 		<string>Scedilla.alt</string>
 		<string>Scircumflex.alt</string>
-		<string>uni0218.alt</string>
-		<string>uni1E62.alt</string>
+		<string>Scommaaccent.alt</string>
+		<string>Sdotbelow.alt</string>
 		<string>SacuteloclPLK.alt</string>
 	</array>
 	<key>@MMK_L_T</key>
@@ -172,18 +172,18 @@
 		<string>T</string>
 		<string>Tbar</string>
 		<string>Tcaron</string>
-		<string>uni0162</string>
-		<string>uni1E6C</string>
-		<string>uni021A</string>
+		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
+		<string>Tdotbelow</string>
 	</array>
 	<key>@MMK_L_T.alt</key>
 	<array>
 		<string>T.alt</string>
 		<string>Tbar.alt</string>
 		<string>Tcaron.alt</string>
-		<string>uni0162.alt</string>
-		<string>uni021A.alt</string>
-		<string>uni1E6C.alt</string>
+		<string>Tcedilla.alt</string>
+		<string>Tcommaaccent.alt</string>
+		<string>Tdotbelow.alt</string>
 	</array>
 	<key>@MMK_L_V</key>
 	<array>
@@ -216,8 +216,8 @@
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
 		<string>Ygrave</string>
-		<string>uni0232</string>
-		<string>uni1EF8</string>
+		<string>Ymacron</string>
+		<string>Ytilde</string>
 	</array>
 	<key>@MMK_L_Y.alt</key>
 	<array>
@@ -226,15 +226,15 @@
 		<string>Ycircumflex.alt</string>
 		<string>Ydieresis.alt</string>
 		<string>Ygrave.alt</string>
-		<string>uni0232.alt</string>
-		<string>uni1EF8.alt</string>
+		<string>Ymacron.alt</string>
+		<string>Ytilde.alt</string>
 	</array>
 	<key>@MMK_L_Z</key>
 	<array>
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
-		<string>uni1E92</string>
+		<string>Zdotbelow</string>
 		<string>Zacute.loclPLK</string>
 	</array>
 	<key>@MMK_L_Z.alt</key>
@@ -243,7 +243,7 @@
 		<string>Zacute.alt</string>
 		<string>Zcaron.alt</string>
 		<string>Zdotaccent.alt</string>
-		<string>uni1E92.alt</string>
+		<string>Zdotbelow.alt</string>
 		<string>ZacuteloclPLK.alt</string>
 	</array>
 	<key>@MMK_L_colon</key>
@@ -260,46 +260,46 @@
 	</array>
 	<key>@MMK_L_quotedbl</key>
 	<array>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-		<string>quotesingle.loclGUA</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
+		<string>quotesingle.loclGUA</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
-		<string>uni0157</string>
-		<string>uni1E5B</string>
+		<string>rcommaaccent</string>
+		<string>rdotbelow</string>
 	</array>
 	<key>@MMK_L_r.alt</key>
 	<array>
 		<string>r.alt</string>
 		<string>racute.alt</string>
 		<string>rcaron.alt</string>
-		<string>uni0157.alt</string>
-		<string>uni1E5B.alt</string>
+		<string>rcommaaccent.alt</string>
+		<string>rdotbelow.alt</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>uni0163</string>
-		<string>uni021B</string>
-		<string>uni1E6D</string>
+		<string>tcedilla</string>
+		<string>tcommaaccent</string>
+		<string>tdotbelow</string>
 	</array>
 	<key>@MMK_L_t.alt</key>
 	<array>
 		<string>t.alt</string>
 		<string>tbar.alt</string>
 		<string>tcaron.alt</string>
-		<string>uni0163.alt</string>
-		<string>uni021B.alt</string>
-		<string>uni1E6D.alt</string>
+		<string>tcedilla.alt</string>
+		<string>tcommaaccent.alt</string>
+		<string>tdotbelow.alt</string>
 	</array>
 	<key>@MMK_L_w</key>
 	<array>
@@ -324,8 +324,8 @@
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
 		<string>ygrave</string>
-		<string>uni0233</string>
-		<string>uni1EF9</string>
+		<string>ymacron</string>
+		<string>ytilde</string>
 	</array>
 	<key>@MMK_L_y.alt</key>
 	<array>
@@ -334,8 +334,8 @@
 		<string>ycircumflex.alt</string>
 		<string>ydieresis.alt</string>
 		<string>ygrave.alt</string>
-		<string>uni0233.alt</string>
-		<string>uni1EF9.alt</string>
+		<string>ymacron.alt</string>
+		<string>ytilde.alt</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
@@ -344,7 +344,7 @@
 		<string>Abreve</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
-		<string>uni1EA0</string>
+		<string>Adotbelow</string>
 		<string>Agrave</string>
 		<string>Amacron</string>
 		<string>Aogonek</string>
@@ -361,7 +361,7 @@
 		<string>Abreve.alt</string>
 		<string>Acircumflex.alt</string>
 		<string>Adieresis.alt</string>
-		<string>uni1EA0.alt</string>
+		<string>Adotbelow.alt</string>
 		<string>Agrave.alt</string>
 		<string>Amacron.alt</string>
 		<string>Aogonek.alt</string>
@@ -398,18 +398,18 @@
 		<string>Gbreve</string>
 		<string>Gcaron</string>
 		<string>Gcircumflex</string>
-		<string>uni0122</string>
+		<string>Gcommaaccent</string>
 		<string>Gdotaccent</string>
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
-		<string>uni1ECC</string>
+		<string>Odotbelow</string>
 		<string>Ograve</string>
 		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
-		<string>uni01EA</string>
+		<string>Oogonek</string>
 		<string>Oslash</string>
 		<string>Oslashacute</string>
 		<string>Otilde</string>
@@ -430,18 +430,18 @@
 		<string>Gbreve.alt</string>
 		<string>Gcaron.alt</string>
 		<string>Gcircumflex.alt</string>
-		<string>uni0122.alt</string>
+		<string>Gcommaaccent.alt</string>
 		<string>Gdotaccent.alt</string>
 		<string>O.alt</string>
 		<string>Oacute.alt</string>
 		<string>Obreve.alt</string>
 		<string>Ocircumflex.alt</string>
 		<string>Odieresis.alt</string>
-		<string>uni1ECC.alt</string>
+		<string>Odotbelow.alt</string>
 		<string>Ograve.alt</string>
 		<string>Ohungarumlaut.alt</string>
 		<string>Omacron.alt</string>
-		<string>uni01EA.alt</string>
+		<string>Oogonek.alt</string>
 		<string>Oslash.alt</string>
 		<string>Oslashacute.alt</string>
 		<string>Otilde.alt</string>
@@ -456,8 +456,8 @@
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
-		<string>uni0218</string>
-		<string>uni1E62</string>
+		<string>Scommaaccent</string>
+		<string>Sdotbelow</string>
 		<string>Sacute.loclPLK</string>
 	</array>
 	<key>@MMK_R_S.alt</key>
@@ -467,8 +467,8 @@
 		<string>Scaron.alt</string>
 		<string>Scedilla.alt</string>
 		<string>Scircumflex.alt</string>
-		<string>uni0218.alt</string>
-		<string>uni1E62.alt</string>
+		<string>Scommaaccent.alt</string>
+		<string>Sdotbelow.alt</string>
 		<string>SacuteloclPLK.alt</string>
 	</array>
 	<key>@MMK_R_T</key>
@@ -476,9 +476,9 @@
 		<string>T</string>
 		<string>Tbar</string>
 		<string>Tcaron</string>
-		<string>uni0162</string>
-		<string>uni1E6C</string>
-		<string>uni021A</string>
+		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
+		<string>Tdotbelow</string>
 		<string>T_H_E</string>
 		<string>T_O</string>
 	</array>
@@ -487,9 +487,9 @@
 		<string>T.alt</string>
 		<string>Tbar.alt</string>
 		<string>Tcaron.alt</string>
-		<string>uni0162.alt</string>
-		<string>uni021A.alt</string>
-		<string>uni1E6C.alt</string>
+		<string>Tcedilla.alt</string>
+		<string>Tcommaaccent.alt</string>
+		<string>Tdotbelow.alt</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
@@ -522,8 +522,8 @@
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
 		<string>Ygrave</string>
-		<string>uni0232</string>
-		<string>uni1EF8</string>
+		<string>Ymacron</string>
+		<string>Ytilde</string>
 	</array>
 	<key>@MMK_R_Y.alt</key>
 	<array>
@@ -532,8 +532,8 @@
 		<string>Ycircumflex.alt</string>
 		<string>Ydieresis.alt</string>
 		<string>Ygrave.alt</string>
-		<string>uni0232.alt</string>
-		<string>uni1EF8.alt</string>
+		<string>Ymacron.alt</string>
+		<string>Ytilde.alt</string>
 	</array>
 	<key>@MMK_R_Z</key>
 	<array>
@@ -541,7 +541,7 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
-		<string>uni1E92</string>
+		<string>Zdotbelow</string>
 		<string>Zacute.loclPLK</string>
 	</array>
 	<key>@MMK_R_Z.alt</key>
@@ -550,7 +550,7 @@
 		<string>Zacute.alt</string>
 		<string>Zcaron.alt</string>
 		<string>Zdotaccent.alt</string>
-		<string>uni1E92.alt</string>
+		<string>Zdotbelow.alt</string>
 		<string>ZacuteloclPLK.alt</string>
 	</array>
 	<key>@MMK_R_a</key>
@@ -560,7 +560,7 @@
 		<string>abreve</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
-		<string>uni1EA1</string>
+		<string>adotbelow</string>
 		<string>agrave</string>
 		<string>amacron</string>
 		<string>aogonek</string>
@@ -577,7 +577,7 @@
 		<string>abreve.alt</string>
 		<string>acircumflex.alt</string>
 		<string>adieresis.alt</string>
-		<string>uni1EA1.alt</string>
+		<string>adotbelow.alt</string>
 		<string>agrave.alt</string>
 		<string>amacron.alt</string>
 		<string>aogonek.alt</string>
@@ -598,7 +598,7 @@
 		<string>gbreve</string>
 		<string>gcaron</string>
 		<string>gcircumflex</string>
-		<string>uni0123</string>
+		<string>gcommaaccent</string>
 		<string>gdotaccent</string>
 	</array>
 	<key>@MMK_R_g.alt</key>
@@ -607,15 +607,15 @@
 		<string>gbreve.alt</string>
 		<string>gcaron.alt</string>
 		<string>gcircumflex.alt</string>
-		<string>uni0123.alt</string>
+		<string>gcommaaccent.alt</string>
 		<string>gdotaccent.alt</string>
 	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>
-		<string>emdash</string>
-		<string>endash</string>
 		<string>hyphen</string>
-		<string>uni00AD</string>
+		<string>softhyphen</string>
+		<string>endash</string>
+		<string>emdash</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -628,9 +628,9 @@
 		<string>d</string>
 		<string>dcaron</string>
 		<string>dcroat</string>
-		<string>uni1E0D</string>
-		<string>uni01F3</string>
-		<string>uni01C6</string>
+		<string>ddotbelow</string>
+		<string>dz</string>
+		<string>dzcaron</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ebreve</string>
@@ -638,21 +638,21 @@
 		<string>ecircumflex</string>
 		<string>edieresis</string>
 		<string>edotaccent</string>
-		<string>uni1EB9</string>
+		<string>edotbelow</string>
 		<string>egrave</string>
 		<string>emacron</string>
 		<string>eogonek</string>
-		<string>uni1EBD</string>
+		<string>etilde</string>
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
 		<string>ocircumflex</string>
 		<string>odieresis</string>
-		<string>uni1ECD</string>
+		<string>odotbelow</string>
 		<string>ograve</string>
 		<string>ohungarumlaut</string>
 		<string>omacron</string>
-		<string>uni01EB</string>
+		<string>oogonek</string>
 		<string>oslash</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
@@ -672,9 +672,9 @@
 		<string>d.alt</string>
 		<string>dcaron.alt</string>
 		<string>dcroat.alt</string>
-		<string>uni1E0D.alt</string>
-		<string>uni01F3.alt</string>
-		<string>uni01C6.alt</string>
+		<string>ddotbelow.alt</string>
+		<string>dz.alt</string>
+		<string>dzcaron.alt</string>
 		<string>e.alt</string>
 		<string>eacute.alt</string>
 		<string>ebreve.alt</string>
@@ -682,21 +682,21 @@
 		<string>ecircumflex.alt</string>
 		<string>edieresis.alt</string>
 		<string>edotaccent.alt</string>
-		<string>uni1EB9.alt</string>
+		<string>edotbelow.alt</string>
 		<string>egrave.alt</string>
 		<string>emacron.alt</string>
 		<string>eogonek.alt</string>
-		<string>uni1EBD.alt</string>
+		<string>etilde.alt</string>
 		<string>o.alt</string>
 		<string>oacute.alt</string>
 		<string>obreve.alt</string>
 		<string>ocircumflex.alt</string>
 		<string>odieresis.alt</string>
-		<string>uni1ECD.alt</string>
+		<string>odotbelow.alt</string>
 		<string>ograve.alt</string>
 		<string>ohungarumlaut.alt</string>
 		<string>omacron.alt</string>
-		<string>uni01EB.alt</string>
+		<string>oogonek.alt</string>
 		<string>oslash.alt</string>
 		<string>oslashacute.alt</string>
 		<string>otilde.alt</string>
@@ -707,21 +707,21 @@
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
+		<string>period</string>
 		<string>comma</string>
 		<string>ellipsis</string>
-		<string>period</string>
 		<string>underscore</string>
 		<string>quotedblbase</string>
 	</array>
 	<key>@MMK_R_quotedbl</key>
 	<array>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-		<string>quotesingle.loclGUA</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
+		<string>quotesingle.loclGUA</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>
@@ -730,8 +730,8 @@
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>scircumflex</string>
-		<string>uni0219</string>
-		<string>uni1E63</string>
+		<string>scommaaccent</string>
+		<string>sdotbelow</string>
 		<string>sacute.loclPLK</string>
 	</array>
 	<key>@MMK_R_s.alt</key>
@@ -741,8 +741,8 @@
 		<string>scaron.alt</string>
 		<string>scedilla.alt</string>
 		<string>scircumflex.alt</string>
-		<string>uni0219.alt</string>
-		<string>uni1E63.alt</string>
+		<string>scommaaccent.alt</string>
+		<string>sdotbelow.alt</string>
 		<string>sacuteloclPLK.alt</string>
 	</array>
 	<key>@MMK_R_v</key>
@@ -759,7 +759,7 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
-		<string>uni1E93</string>
+		<string>zdotbelow</string>
 		<string>zacute.loclPLK</string>
 	</array>
 	<key>@MMK_R_z.alt</key>

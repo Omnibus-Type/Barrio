@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="1">
-  <advance width="507"/>
+  <advance width="475"/>
   <unicode hex="01FA"/>
   <outline>
     <component base="A"/>
-    <component base="acute" xOffset="82" yOffset="41"/>
-    <component base="ring" xOffset="104" yOffset="-40"/>
+    <component base="ringcomb.case" xOffset="145" yOffset="128"/>
+    <component base="acutecomb.case" xOffset="116" yOffset="277"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acute</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>ring</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

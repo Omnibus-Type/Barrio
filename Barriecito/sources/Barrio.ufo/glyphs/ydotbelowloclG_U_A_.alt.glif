@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydotbelowloclGUA.alt" format="1">
+  <advance width="512"/>
+  <outline>
+    <component base="yloclGUA.alt"/>
+    <component base="dotbelowcomb" xOffset="203" yOffset="-150"/>
+  </outline>
+</glyph>

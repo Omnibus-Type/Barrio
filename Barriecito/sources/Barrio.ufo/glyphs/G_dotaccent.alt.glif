@@ -2,75 +2,7 @@
 <glyph name="Gdotaccent.alt" format="1">
   <advance width="533"/>
   <outline>
-    <contour>
-      <point x="486" y="271" type="curve"/>
-      <point x="475" y="271"/>
-      <point x="297" y="266"/>
-      <point x="281" y="266" type="curve"/>
-      <point x="235" y="266" type="line" smooth="yes"/>
-      <point x="231" y="266"/>
-      <point x="224" y="267"/>
-      <point x="224" y="251" type="curve"/>
-      <point x="224" y="212" type="line" smooth="yes"/>
-      <point x="224" y="205"/>
-      <point x="226" y="196"/>
-      <point x="241" y="196" type="curve"/>
-      <point x="342" y="195" type="line" smooth="yes"/>
-      <point x="353" y="195"/>
-      <point x="371" y="194"/>
-      <point x="387" y="194" type="curve"/>
-      <point x="416" y="194" type="line"/>
-      <point x="413" y="173"/>
-      <point x="406" y="154"/>
-      <point x="395" y="137" type="curve"/>
-      <point x="376" y="109"/>
-      <point x="345" y="81"/>
-      <point x="285" y="81" type="curve"/>
-      <point x="168" y="81"/>
-      <point x="128" y="253"/>
-      <point x="128" y="348" type="curve"/>
-      <point x="128" y="444"/>
-      <point x="171" y="581"/>
-      <point x="260" y="581" type="curve"/>
-      <point x="321" y="581"/>
-      <point x="362" y="524"/>
-      <point x="370" y="516" type="curve"/>
-      <point x="375" y="511"/>
-      <point x="381" y="507"/>
-      <point x="388" y="507" type="curve"/>
-      <point x="391" y="507"/>
-      <point x="394" y="508"/>
-      <point x="397" y="510" type="curve"/>
-      <point x="407" y="517"/>
-      <point x="436" y="541"/>
-      <point x="444" y="549" type="curve"/>
-      <point x="449" y="554"/>
-      <point x="453" y="561"/>
-      <point x="453" y="570" type="curve"/>
-      <point x="453" y="576"/>
-      <point x="451" y="582"/>
-      <point x="445" y="589" type="curve"/>
-      <point x="431" y="605"/>
-      <point x="397" y="678"/>
-      <point x="274" y="678" type="curve"/>
-      <point x="150" y="678"/>
-      <point x="39" y="554"/>
-      <point x="39" y="374" type="curve"/>
-      <point x="39" y="195"/>
-      <point x="115" y="-13"/>
-      <point x="274" y="-13" type="curve"/>
-      <point x="500" y="-13"/>
-      <point x="503" y="219"/>
-      <point x="503" y="238" type="curve"/>
-      <point x="504" y="257"/>
-      <point x="498" y="271"/>
-    </contour>
-    <component base="uni0307" xOffset="191"/>
+    <component base="G.alt"/>
+    <component base="dotaccentcomb.case" xOffset="223" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

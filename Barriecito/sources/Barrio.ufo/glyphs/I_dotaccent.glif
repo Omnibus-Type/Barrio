@@ -3,56 +3,7 @@
   <advance width="153"/>
   <unicode hex="0130"/>
   <outline>
-    <contour>
-      <point x="111" y="555" type="curve"/>
-      <point x="112" y="590"/>
-      <point x="113" y="628"/>
-      <point x="116" y="648" type="curve"/>
-      <point x="116" y="656"/>
-      <point x="118" y="665"/>
-      <point x="118" y="672" type="curve"/>
-      <point x="118" y="680"/>
-      <point x="116" y="686"/>
-      <point x="108" y="686" type="curve"/>
-      <point x="93" y="686"/>
-      <point x="78" y="687"/>
-      <point x="71" y="687" type="curve"/>
-      <point x="58" y="687"/>
-      <point x="55" y="675"/>
-      <point x="55" y="661" type="curve"/>
-      <point x="55" y="654"/>
-      <point x="56" y="647"/>
-      <point x="56" y="640" type="curve"/>
-      <point x="59" y="616"/>
-      <point x="49" y="442"/>
-      <point x="49" y="376" type="curve"/>
-      <point x="49" y="310"/>
-      <point x="45" y="73"/>
-      <point x="45" y="35" type="curve"/>
-      <point x="45" y="-11"/>
-      <point x="36" y="-7"/>
-      <point x="69" y="-7" type="curve"/>
-      <point x="81" y="-7"/>
-      <point x="94" y="-7"/>
-      <point x="100" y="-3" type="curve"/>
-      <point x="106" y="0"/>
-      <point x="110" y="2"/>
-      <point x="110" y="13" type="curve"/>
-      <point x="110" y="17"/>
-      <point x="110" y="21"/>
-      <point x="109" y="27" type="curve"/>
-      <point x="106" y="52"/>
-      <point x="103" y="227"/>
-      <point x="103" y="279" type="curve"/>
-      <point x="103" y="330"/>
-      <point x="109" y="501"/>
-    </contour>
-    <component base="dotaccent" xOffset="-5"/>
+    <component base="I"/>
+    <component base="dotaccentcomb.case" xOffset="37" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

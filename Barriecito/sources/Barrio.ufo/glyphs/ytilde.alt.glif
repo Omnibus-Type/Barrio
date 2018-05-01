@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ytilde.alt" format="1">
+  <advance width="462"/>
+  <outline>
+    <component base="y.alt"/>
+    <component base="tildecomb" xOffset="67" yOffset="20"/>
+  </outline>
+</glyph>

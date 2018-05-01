@@ -3,12 +3,6 @@
   <advance width="624"/>
   <outline>
     <component base="U.alt"/>
-    <component base="macron" xOffset="140"/>
+    <component base="macroncomb.case" xOffset="181" yOffset="128"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

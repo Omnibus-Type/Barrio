@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresisgrave" format="1">
+  <advance width="509"/>
+  <unicode hex="01DC"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="79" yOffset="20"/>
+    <component base="gravecomb" xOffset="127" yOffset="150"/>
+  </outline>
+</glyph>

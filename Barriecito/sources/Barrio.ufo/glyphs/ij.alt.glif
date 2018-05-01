@@ -5,10 +5,4 @@
     <component base="i.alt"/>
     <component base="j.alt" xOffset="262"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

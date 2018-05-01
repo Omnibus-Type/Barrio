@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb.case" format="1">
+  <advance width="168"/>
+  <outline>
+    <component base="ogonek" xOffset="-32"/>
+    <contour>
+      <point x="149" y="0" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+</glyph>

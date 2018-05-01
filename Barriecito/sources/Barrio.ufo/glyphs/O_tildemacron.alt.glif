@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otildemacron.alt" format="1">
+  <advance width="639"/>
+  <outline>
+    <component base="O.alt"/>
+    <component base="tildecomb.case" xOffset="162" yOffset="128"/>
+    <component base="macroncomb.case" xOffset="188" yOffset="250"/>
+  </outline>
+</glyph>

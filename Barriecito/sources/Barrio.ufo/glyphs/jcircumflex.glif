@@ -3,13 +3,7 @@
   <advance width="166"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="uni0237"/>
-    <component base="circumflex" xOffset="-94" yOffset="-108"/>
+    <component base="jdotless"/>
+    <component base="circumflexcomb" xOffset="-53" yOffset="20"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>

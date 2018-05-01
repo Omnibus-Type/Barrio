@@ -4,7 +4,7 @@
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="caron.alt" xOffset="490" yOffset="-111"/>
+    <component base="caron.alt" xOffset="490" yOffset="-101"/>
   </outline>
   <lib>
     <dict>
@@ -19,8 +19,6 @@
           <string>caron.alt</string>
         </dict>
       </array>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
     </dict>
   </lib>
 </glyph>

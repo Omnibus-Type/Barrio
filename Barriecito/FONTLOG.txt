@@ -12,8 +12,9 @@ Designed for Omnibus-Type by Sergio Jiménez and Pablo Cosgaya.
 
 ChangeLog
 
-22 Apr 2018 Barrio v1.007
+1 May 2018 Barrio v1.007
 - Updated underline
+– Expanded set to GF_Latin plus
 
 21 May 2017 Barrio v1.006
 - Added lowercase and expanded repertoire

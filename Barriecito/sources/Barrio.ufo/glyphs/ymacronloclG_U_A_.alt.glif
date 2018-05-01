@@ -3,12 +3,6 @@
   <advance width="512"/>
   <outline>
     <component base="yloclGUA.alt"/>
-    <component base="macron" xOffset="77" yOffset="-108"/>
+    <component base="macroncomb" xOffset="118" yOffset="20"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-04-22 22:32:32 +0000</string>
-    </dict>
-  </lib>
 </glyph>
