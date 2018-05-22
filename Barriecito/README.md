@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Designed to be used both on screen and on billboards, magazines and promotional material of small establishments. Particularly remarkable for its rhythmic contrast. Furthermore amateur appearance makes it ideal for warm communication, fun and live. Barriecito offers 647 characters (1234 glyphs) and diacritics with support for over 100 languages (including Guarani). 
+Designed to be used both on screen and on billboards, magazines and promotional material of small shops. Particularly remarkable for its rhythmic contrast. Furthermore amateur appearance makes it ideal for warm communication, fun and live. Barriecito offers 647 characters (1234 glyphs) and diacritics with support for over 100 languages (including Guarani). 
 
 ![Sample of Barriecito.](Barriecito.png "Barriecito")
 
