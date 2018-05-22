@@ -1,4 +1,4 @@
-# Barrio
+# Barriecito
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*

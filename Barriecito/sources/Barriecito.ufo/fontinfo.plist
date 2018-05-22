@@ -7,13 +7,13 @@
 	<key>capHeight</key>
 	<integer>710</integer>
 	<key>copyright</key>
-	<string>Copyright 2016 The Barrio Project Authors (https://github.com/Omnibus-Type/Barrio)</string>
+	<string>Copyright 2016 The Barriecito Project Authors (https://github.com/Omnibus-Type/Barrio)</string>
 	<key>descender</key>
 	<integer>-238</integer>
 	<key>familyName</key>
-	<string>Barrio</string>
+	<string>Barriecito</string>
 	<key>openTypeHeadCreated</key>
-	<string>2018/04/30 10:23:30</string>
+	<string>2018/05/21 21:25:56</string>
 	<key>openTypeHheaAscender</key>
 	<integer>962</integer>
 	<key>openTypeHheaDescender</key>
@@ -29,7 +29,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.omnibus-type.com/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Barrio</string>
+	<string>Barriecito</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2StrikeoutPosition</key>
@@ -85,7 +85,7 @@
 		<integer>725</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Barrio-Regular</string>
+	<string>Barriecito-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
@@ -110,13 +110,13 @@
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>Barrio is a trademark of Omnibus-Type.</string>
+	<string>Barriecito is a trademark of Omnibus-Type.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>7</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>582</integer>
 </dict>

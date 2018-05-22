@@ -1,4 +1,4 @@
-Copyright 2016 The Barrio Project Authors (https://github.com/Omnibus-Type/Barrio)
+Copyright 2018 The Barriecito Project Authors (https://github.com/Omnibus-Type/Barrio)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
