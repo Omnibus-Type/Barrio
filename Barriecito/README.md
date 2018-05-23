@@ -49,8 +49,13 @@ This information should be distributed along with the Barriecito fonts and any d
 
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
+ 
+**N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development 
 
-**N:** **Nicolas Silva**  
+**N:** **Oscar Guerrero Cañizares**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
@@ -65,12 +70,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Oscar Guerrero Cañizares**  
+**N:** **Nicolas Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development 
-
-**N:** **Yorlmar Campos**  
-**E:** omnibus.type@gmail.com  
-**W:** http://www.omnibus-type.com  
-**D:** Typeface development  
