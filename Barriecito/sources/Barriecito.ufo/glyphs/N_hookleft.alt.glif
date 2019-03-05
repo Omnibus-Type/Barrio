@@ -42,12 +42,12 @@
       <point x="511" y="-1"/>
       <point x="515" y="-1"/>
       <point x="518" y="-1" type="curve" smooth="yes"/>
-      <point x="527" y="-1"/>
-      <point x="532" y="2"/>
-      <point x="534" y="10" type="curve"/>
+      <point x="526.524" y="-1"/>
+      <point x="532.142" y="1.907"/>
+      <point x="533.614" y="10.198" type="curve"/>
       <point x="534" y="15" type="line"/>
-      <point x="532" y="47"/>
-      <point x="527" y="197"/>
+      <point x="531.535" y="47.194"/>
+      <point x="527" y="196.586"/>
       <point x="527" y="265" type="curve" smooth="yes"/>
       <point x="527" y="491" type="line" smooth="yes"/>
       <point x="527" y="585"/>

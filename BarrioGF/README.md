@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2018, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -55,7 +55,7 @@ This information should be distributed along with the Barrio fonts and any deriv
 - Updates CFF and TTF hinting
 - New Verical Metrics
 
-**26 Dec 2013 (Nicolas Silva) Barrio v.1.3**
+**26 Dec 2013 (Omnibus-Type) Barrio v.1.3**
 - Encoding support:
   - Adobe Latin 3
 - Improved TTF hint (TTFAutohint 0.97)
@@ -70,7 +70,7 @@ Latin-1 Supplement | U+00A0-U+00FF
 Latin Extended-A   | U+0100-U+017F
 
  
-- Character map to support MS Codepages:  
+- Character map to support MS Code pages:  
   - 1252 Latin-1
   - 1250 Latin-2 (Easter Europe)
   - 1254 Turkish
@@ -97,7 +97,7 @@ Latin Extended-A   | U+0100-U+017F
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
@@ -111,3 +111,8 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
+
+**N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development 

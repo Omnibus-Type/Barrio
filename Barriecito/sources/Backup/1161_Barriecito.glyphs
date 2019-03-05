@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1161";
 DisplayStrings = (
 H
 );
@@ -966,7 +966,7 @@ utilde";
 name = Voc1;
 }
 );
-copyright = "Copyright (c) 2019 The Barriecito Project Authors (https://github.com/Omnibus-Type/Barrio/Barriecito)";
+copyright = "Copyright 2018 The Barriecito Project Authors (https://github.com/Omnibus-Type/Barrio/Barriecito)";
 customParameters = (
 {
 name = trademark;

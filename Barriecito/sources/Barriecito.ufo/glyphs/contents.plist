@@ -130,14 +130,14 @@
 	<string>B_lack_D_iamond.glif</string>
 	<key>Black_Down_Pointing_Triangle</key>
 	<string>B_lack_D_own_P_ointing_T_riangle.glif</string>
-	<key>Black_Left-Pointing_Small</key>
-	<string>B_lack_L_eft-P_ointing_S_mall.glif</string>
-	<key>Black_Left-Pointing_Triangle</key>
-	<string>B_lack_L_eft-P_ointing_T_riangle.glif</string>
-	<key>Black_Right-Pointing_Pointer</key>
-	<string>B_lack_R_ight-P_ointing_P_ointer.glif</string>
-	<key>Black_Right-Pointing_Small</key>
-	<string>B_lack_R_ight-P_ointing_S_mall.glif</string>
+	<key>Black_Left_Pointing_Small</key>
+	<string>B_lack_L_eft_P_ointing_S_mall.glif</string>
+	<key>Black_Left_Pointing_Triangle</key>
+	<string>B_lack_L_eft_P_ointing_T_riangle.glif</string>
+	<key>Black_Right_Pointing_Pointer</key>
+	<string>B_lack_R_ight_P_ointing_P_ointer.glif</string>
+	<key>Black_Right_Pointing_Small</key>
+	<string>B_lack_R_ight_P_ointing_S_mall.glif</string>
 	<key>Black_Up_Pointing_Triangle</key>
 	<string>B_lack_U_p_P_ointing_T_riangle.glif</string>
 	<key>C</key>
@@ -900,14 +900,14 @@
 	<string>W_hite_D_iamond.glif</string>
 	<key>White_Heart_Suit</key>
 	<string>W_hite_H_eart_S_uit.glif</string>
-	<key>White_Left-Pointing_Triangle</key>
-	<string>W_hite_L_eft-P_ointing_T_riangle.glif</string>
 	<key>White_Left_Pointing_Index</key>
 	<string>W_hite_L_eft_P_ointing_I_ndex.glif</string>
-	<key>White_Right-Pointing_Triangle</key>
-	<string>W_hite_R_ight-P_ointing_T_riangle.glif</string>
+	<key>White_Left_Pointing_Triangle</key>
+	<string>W_hite_L_eft_P_ointing_T_riangle.glif</string>
 	<key>White_Right_Pointing_Index</key>
 	<string>W_hite_R_ight_P_ointing_I_ndex.glif</string>
+	<key>White_Right_Pointing_Triangle</key>
+	<string>W_hite_R_ight_P_ointing_T_riangle.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>X.alt</key>
@@ -1710,8 +1710,8 @@
 	<string>leftA_rrow.glif</string>
 	<key>leftRightArrow</key>
 	<string>leftR_ightA_rrow.glif</string>
-	<key>leftanglebracket-math</key>
-	<string>leftanglebracket-math.glif</string>
+	<key>leftanglebracket_math</key>
+	<string>leftanglebracket_math.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>lessequal</key>
@@ -2074,8 +2074,8 @@
 	<string>registered.glif</string>
 	<key>rightArrow</key>
 	<string>rightA_rrow.glif</string>
-	<key>rightanglebracket-math</key>
-	<string>rightanglebracket-math.glif</string>
+	<key>rightanglebracket_math</key>
+	<string>rightanglebracket_math.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>ringcomb</key>

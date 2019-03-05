@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2013-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -42,18 +42,18 @@ This information should be distributed along with the Barriecito fonts and any d
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **1 May 2018 Barriecito v1.007**
-- Updated underline
-– Expanded set to GF_Latin plus
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
 ### Acknowledgements
 
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
  
-**N:** **Yorlmar Campos**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development 
+**D:** Typeface development
 
 **N:** **Oscar Guerrero Cañizares**  
 **E:** omnibus.type@gmail.com  
@@ -70,7 +70,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Nicolas Silva**  
+**N:** **Yorlmar Campos**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development 
